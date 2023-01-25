@@ -3,6 +3,10 @@ This notebook reads data from locally stored .db files using SQL queries to anal
 
 
 
+https://user-images.githubusercontent.com/118786747/214459957-e47ef676-13a1-4222-84b1-18db1989e7f0.mp4
+
+
+
 ## Technologies
 This notebook runs on jupyter labs using python 3.7.15
 The program uses the numpy, pandas, hvplot and sqlalchemy libraries.
